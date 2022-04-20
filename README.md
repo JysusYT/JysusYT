@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/7O1WTZN.png)](https://www.youtube.com/channel/UCThgylWXZF5YvSZLI5-nWLg)
+[![Header](https://i.imgur.com/H27so1j.png)](https://www.youtube.com/channel/UCThgylWXZF5YvSZLI5-nWLg)
 
 **JysusYT/JysusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
