@@ -3,7 +3,7 @@
 
 :computer: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
 <br>
-![Discord Banner 3](https://discordapp.com/api/guilds/843863276567003190/widget.png?style=banner2)
+![Discord Banner 1](https://discordapp.com/api/guilds/843863276567003190/widget.png?style=banner1)
 <br>
 <br>
 ![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
