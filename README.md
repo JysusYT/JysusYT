@@ -2,6 +2,8 @@
 
 ---
 
+<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/4gPwzVD.png" />
+
 ### About me
 • :cocktail: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
 <br>
