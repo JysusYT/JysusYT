@@ -1,5 +1,10 @@
 [![Header](https://i.imgur.com/H27so1j.png)](https://www.youtube.com/channel/UCThgylWXZF5YvSZLI5-nWLg)
 
+
+:computer: _Founder Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
+<br>
+<br>
+
 **JysusYT/JysusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
