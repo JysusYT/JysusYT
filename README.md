@@ -4,8 +4,11 @@
 
 ### About me
 • :cocktail: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
+<br>
 • :computer: Aprendizaje de Programacion
+<br>
 • :movie_camera: Youtuber Pequeño de Minecraft
+<br>
 • :crossed_swords: Jugador de Minecraft PvP
 ![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
 <br>
