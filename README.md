@@ -11,9 +11,10 @@
 <br>
 • :crossed_swords: Jugador de Minecraft PvP
 <br>
-• :tools: Configurador de Plugin (Minecraft)
+• :wrench: Configurador de Plugin (Minecraft)
 <br>
 • :man_technologist: Programador de Bot Discord (52%)
+<br>
 <br>
 ![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
 <br>
