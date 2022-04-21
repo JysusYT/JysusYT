@@ -3,7 +3,7 @@
 
 :computer: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
 <br>
-[![Header](https://i.imgur.com/AuMrUmR.png)](https://discord.gg/Z5CFdkSgBs)
+[![Header](https://i.imgur.com/uOMvXfY.jpg)](https://discord.gg/Z5CFdkSgBs)
 <br>
 <br>
 ![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
