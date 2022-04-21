@@ -1,7 +1,7 @@
 [![Header](https://i.imgur.com/H27so1j.png)](https://www.youtube.com/channel/UCThgylWXZF5YvSZLI5-nWLg)
 
 
-:computer: _Founder Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
+:computer: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
 <br>
 <br>
 
