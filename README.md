@@ -6,10 +6,13 @@
 [![Header](https://i.imgur.com/AuMrUmR.png)](https://discord.gg/Z5CFdkSgBs)
 <br>
 <br>
-**JysusYT**
-![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
 
-**JysusYT/JysusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+### About me
+![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
+<br>
+**JysusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
