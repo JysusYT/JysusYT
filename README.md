@@ -3,9 +3,10 @@
 
 :computer: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
 <br>
-[![Header](https://i.imgur.com/uOMvXfY.jpg)](https://discord.gg/Z5CFdkSgBs)
+[![Header](https://i.imgur.com/AuMrUmR.png)](https://discord.gg/Z5CFdkSgBs)
 <br>
 <br>
+**JysusYT**
 ![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
 
 **JysusYT/JysusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
