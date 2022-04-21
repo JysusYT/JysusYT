@@ -1,18 +1,14 @@
 [![Header](https://i.imgur.com/H27so1j.png)](https://www.youtube.com/channel/UCThgylWXZF5YvSZLI5-nWLg)
 
-
-:computer: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
-<br>
-[![Header](https://i.imgur.com/AuMrUmR.png)](https://discord.gg/Z5CFdkSgBs)
-<br>
-<br>
-
 ---
 
 ### About me
+• :cocktail: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
+• :computer: Aprendizaje de Programacion
+• :movie_camera: Youtuber Pequeño de Minecraft
+• :crossed_swords: Jugador de Minecraft PvP
 ![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
 <br>
-**JysusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
