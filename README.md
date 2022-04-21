@@ -4,6 +4,7 @@
 :computer: _Founder of [ShotMC Network](https://discord.gg/Z5CFdkSgBs)_
 <br>
 <br>
+![](https://discord-md-badge.vercel.app/api/shield/785588021357051925)
 
 **JysusYT/JysusYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
